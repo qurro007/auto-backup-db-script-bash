@@ -7,7 +7,7 @@ This is script bash can be use with cronjob linux for auto backup database mysql
 MYSQL_USER="root" \
 MYSQL_PASSWORD="example" \
 MYSQL_HOST="localhost" \
-MYSQL_DATABASE="wordpress" \
+MYSQL_DATABASE="wordpress" 
 
 ### Usage
 crontab job example 
